@@ -107,3 +107,7 @@ Example: Red 692 · Green 1098 · Blue 1521 · Mixer 1928
 
 PLCSIM simulates the **Main PLC only**. Modify logic inputs (Encoder, Marker flags, SCADA/HMI values) in a watch table. Keep Stop = TRUE (NC).
 
+## VIDEO
+https://youtu.be/pJoJccnLpeI
+
+
